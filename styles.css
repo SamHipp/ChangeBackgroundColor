@@ -1,0 +1,60 @@
+body {
+    background-color: #070F0E;
+}
+
+h1 {
+    color:#FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.6rem;
+    line-height: 46px;
+    text-align: center;
+    position: relative;
+    top: 5rem;
+}
+
+.buttonAlign {
+    text-align: center;
+}
+button {
+    width: 317px;
+    height: 90px;
+    background: #3EBFAF;
+    border-radius: 16px;
+    position: relative;
+    top: 8rem;
+    cursor: pointer;
+    border: #3EBFAF;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, .5);
+
+    
+
+}
+
+.buttonText {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.2rem;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+p {
+    color:#FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.2rem;
+    line-height: 46px;
+    text-align: center;
+    position: relative;
+    top: 11rem;
+
+}
+
+button:hover {
+    background: #58FFEA;
+}
+
+@media screen and (max-width: 1023px) {
+    html {
+        font-size: 75%;
+    }
+}

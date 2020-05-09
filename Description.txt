@@ -1,0 +1,1 @@
+A simple browser app using HTML, CSS & vanilla Javscript that allows the user to randomly change the background color of the page with the click of a button. This app also outputs the hex values of that random color so the user can use it in other applications if they like.
